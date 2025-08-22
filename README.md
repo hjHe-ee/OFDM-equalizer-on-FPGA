@@ -1,1 +1,2 @@
 # OFDM-equalizer-on-FPGA
+This project designed and implemented an FPGA-based OFDM equalizer to compensate for multipath channel effects in wireless communication systems. Utilizing frequency-domain equalization techniques, it effectively addresses inter-carrier interference (ICI) and inter-symbol interference (ISI) in OFDM symbols under fading channels, supporting the non-HT mode of the IEEE 802.11a/g standard. The project is derived from the ​​OPENOFDM​​ project.
